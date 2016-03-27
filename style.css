@@ -1,0 +1,137 @@
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0    
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc 
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+}
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}
+.form-group {
+	width:400px;
+	align:center;
+}
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.nl-form {
+
+color:white;
+font-family: myFirstFont;
+}
+/*Profile Page*/
+div.container {
+    width: 60em;
+   box-sizing: border-box;
+   border :1px hidden green;
+}
+
+div.box {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px hidden blue;
+    float: left;
+ 
+}
+
+.tab{
+border:1px solid black;
+padding:4px;
+margin:8px;
+height:200px;
+}
+.tab1{
+border:1px solid black;
+padding:4px;
+margin:8px;
+height:200px;
+}
+
+
+div.container1 {
+    width: 60em;
+   box-sizing: border-box;
+   margin-left:93px;
+}
+
+div.box1 {
+    box-sizing: border-box;
+    width: 50%;
+    
+    border: 1px hidden blue;
+    float: left;
+ 
+}
+
+.tab2{
+border:1px solid black;
+padding:4px;
+margin:8px;
+height:200px;
+width:390px;
+}
+.tab3{
+border:1px solid black;
+padding:4px;
+margin:8px;
+height:200px;
+width:390px;
+}
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+.navto{
+margin-top:0px;
+}
+
